@@ -42,9 +42,13 @@ Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 ## License
 See [LICENSE](LICENSE)
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fquickstart-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fquickstart-js?ref=badge_large)
+
 ## Build Status
 
 [![Actions Status][gh-actions-badge]][gh-actions]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fquickstart-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fquickstart-js?ref=badge_shield)
 
 [gh-actions]: https://github.com/firebase/quickstart-js/actions
 [gh-actions-badge]: https://github.com/firebase/quickstart-js/workflows/CI%20Tests/badge.svg
